@@ -1,3 +1,4 @@
 STM32 Nucleo-64 Development Board with STM32L432KC MCU NUCLEO-L476RG * 1
 STM32L432KC IC * 1
 74HC595 8-Bit Shift Register IC (SMD)
+Red SMD LED 0603
